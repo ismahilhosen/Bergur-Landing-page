@@ -1,0 +1,327 @@
+:root{
+          font-family: Georgia, 'Times New Roman', Times, serif;
+}
+*{
+          margin: 0;
+          padding: 0;
+          
+}
+body{
+          box-sizing: border-box;
+          font-size: 62.5%;
+          
+}
+.nevber{
+          float: right;
+}
+
+/* ############ utiliti class ############# */
+
+.test-border{
+          border: 3px solid gold;
+}
+p{
+          margin-bottom: 0;
+}
+
+
+.textcolorbrone{
+          color: #3d2514;
+}
+
+
+header{
+          background-image: url(../images/3606214.jpg);
+          background-position: right;
+          background-repeat: no-repeat;
+          background-size: cover;
+          height: 95vh;
+          width: auto;
+          
+}
+
+.logo a{
+          font-size: 1rem;
+          text-decoration: none;
+
+}
+
+.nevber ul li a{
+          font-size: 1rem;
+          text-decoration: none;
+          font-weight: 600;
+}
+
+.headertext1 .p1{
+          font-size: 1rem;
+          padding: .5rem 1rem;
+          text-transform: uppercase;
+          color: #3d2514;
+          font-weight: 600;
+          border: 3px dashed #3d2514;
+          margin-top: 6rem;
+          margin-left: 3rem;
+          text-align: center;
+          width: 445px;
+}
+.headertext1 .p2{
+          font-size: 7rem;
+          text-transform: uppercase;
+          color: #3d2514;
+          font-weight: 900;
+          margin-left: 3.2rem;
+          text-shadow: 3px 8px #f5f5f5 ;
+}
+.headertext1 .p3{
+          font-size: 4rem;
+          text-transform: uppercase;
+          color: #3d2514;
+          font-weight: 900;
+          margin-left: 3.5rem;
+          text-shadow: 2px 5px #f5f5f5 ;
+          display: inline-block;
+          margin-top: -35px;
+}
+
+.fast-content img{
+          width: 40vw;
+          height: 27vw;
+          margin-left: 3rem;
+          margin-top: 3rem;
+}
+
+.secend-content img{
+          
+}
+
+.s-fast-con img{
+          width: 40vw;
+          margin-top: 3rem;
+          margin-left: 6.5rem;
+}
+.s-secnd-con img{
+          width: 40vw;
+          margin-top: 1rem;
+          margin-left: 6.5rem;
+}
+
+.burger-text{
+          top: 80px;
+          left: 65px;
+}
+.burger-text span:first-of-type{
+          font-size:1.5rem;
+          text-transform: uppercase;
+          font-weight: 700;
+}
+.burger-text span:last-of-type{
+          font-size:1.8rem;
+          text-transform: uppercase;
+          font-weight: 700;
+          display: inline-block;
+          margin-top: -5px;
+}
+.burger-2-text{
+          top: 61px;
+          left: 145px;
+}
+.burger-2-text span:first-of-type{
+          font-size:1.3rem;
+          text-transform: uppercase;
+          font-weight: 700;
+          display: inline-block;
+          
+}
+.burger-2-text span:last-of-type{
+          font-size:1.8rem;
+          text-transform: uppercase;
+          font-weight: 700;
+          display: inline-block;
+          margin-top: -5px;
+          display: inline-block;
+          margin-top:-10px
+}
+.burger-2-text .medil{
+          font-size:1.8rem;
+          text-transform: uppercase;
+          font-weight: 700;
+          display: inline-block;
+          margin-top: -5px;
+          display: inline-block;
+          margin-top:-10px
+}
+
+
+.burger-3-text{
+          top: 30px;
+          left: 145px;
+}
+
+
+.burger-3-text span:first-of-type{
+          font-size:1.5rem;
+          text-transform: uppercase;
+          font-weight: 700;
+}
+
+
+.burger-3-text span:last-of-type{
+          font-size:1.8rem;
+          text-transform: uppercase;
+          font-weight: 700;
+          display: inline-block;
+          margin-top: -5px;
+}
+
+.text-letter-spech{
+          letter-spacing: -1px;
+}
+
+.btn-custom{
+          text-transform: uppercase;
+          font-size: 1rem;
+          background-color: #ffc045;
+          border: none;
+          padding: .7rem 1.5rem;
+          margin: 5rem auto;
+          display: block;
+          font-weight: 700;
+}
+
+
+.manu-tittle{
+          text-align: center;
+}
+.manu-tittle h2{
+          text-transform: uppercase;
+          font-size: 2rem;
+          font-weight: 700;
+          color: #3d2514;
+}
+.manu-tittle p{
+          font-size: 1rem;
+          color: #3d2514;
+          text-align: center;
+          width: 80%;
+          margin: 0 auto;
+}
+
+
+
+.burger-items{
+          margin-top: 3rem;
+}
+
+.burger-1-d img{
+          background-repeat: no-repeat;
+          width: 350px;
+          display: block;
+          margin: 0 auto;
+          
+}
+.burger-2-d img{
+          background-repeat: no-repeat;
+          width: 300px;
+          display: block;
+          margin: 0 auto;
+}
+.burger-3-d img{
+          background-repeat: no-repeat;
+          width: 350px;
+          display: block;
+          margin: 0 auto;
+}
+
+.burger-items-ds-h2{
+          color: #3d2514;
+          text-align: center;
+}
+.burger-items-ds-p{
+          color: #3d2514;
+          text-align: center;
+          font-size: 1rem;
+}
+
+.d-slider-1{
+          box-shadow: 0px 6px 25px 0px #232323;
+          margin-top: 4rem;
+          height: 19rem;
+          
+}
+
+.d-slider-1 img{
+          width: 35%;
+          
+}
+
+
+.discription-discover h3{
+          display: inline-block;
+          font-size: 1.5rem;
+          margin-top: 1.5rem;
+          text-transform: uppercase;
+}
+.discription-discover h1{
+          display: block;
+          font-size: 2rem;
+          margin-top: -0.8rem;
+          text-transform: uppercase;
+          color: #3d2514;
+}
+.discription-discover p{
+          color: #232323;
+          font-size: 1rem;
+          margin-top: 1rem;
+
+}
+
+.contact{
+          position: relative;
+}
+
+.contact .img1{
+          width: 100%;
+          height: 600px;
+          margin-top: 2rem;
+          position: absolute;
+}
+
+
+.c-header{
+          text-align: center;
+          text-transform: uppercase;
+          margin: 5rem auto;
+          position: absolute;
+          z-index: 10;
+          display: block;
+          width: 100%;
+
+}
+.c-header h1 , h2{
+          text-align: center;
+          font-weight: 800;
+          color: #3d2514;
+}
+.c-header h2{
+          text-align: center;
+          font-size: 1.5rem;
+          
+}
+
+.contact-form{
+          width: 60%;
+          margin: 0 auto;
+}
+.btn-2{
+          font-weight: 700;
+          font-size: 1rem;
+}
+
+.row > input{
+          border: 1px solid #232323;
+}
+
+
+.footer-images{
+          margin-top: 19rem;
+}
